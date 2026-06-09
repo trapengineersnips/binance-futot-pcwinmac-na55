@@ -1,4 +1,4 @@
-# 
+# 智能 binance futures bot 插件 Mac OS版 | 高级 binance futures bot 插件 PC Windows版。集成 回测引擎 和 DEX流动性池，跨平台性能最大化。
 
 
 
